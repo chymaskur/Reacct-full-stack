@@ -1,0 +1,12 @@
+.container{
+  display: grid;
+  display: inline-grid;
+  grid-column-gap: 50px;
+  grid-row-gap: 50px;
+  grid-gap: 50px 100px;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+.grid-item{
+    padding: 10px;
+  }

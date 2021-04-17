@@ -1,0 +1,16 @@
+.submitForm{
+    text-align: center;
+    background-color:gray;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 10px;
+}
+.inputField{
+    padding: 10px;
+}
+.form-div{}
+
+.title{
+    text-align: center;
+  color: red;
+}
